@@ -27,8 +27,6 @@ The **Social Media Launcher** is a Chrome extension designed to simplify your so
 ## Contributing
 Feel free to submit issues or pull requests if you have suggestions or improvements.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
